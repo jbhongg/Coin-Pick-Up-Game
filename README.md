@@ -1,5 +1,5 @@
 # Coin-Pick-Up-Game
-
+c로 구현한 동전 줍기 게임
 
 #### 시연 영상 : (성공 엔딩) https://drive.google.com/file/d/1UMSbsM4aYM9g8ilwEZ6wsIt-LKdjKDS9/view?usp=sharing
 ####             (실패 엔딩) https://drive.google.com/file/d/19fKc0XHSgPC6uL5EIlIij5rtE4OQhcv1/view?usp=sharing
